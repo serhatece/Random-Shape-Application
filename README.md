@@ -1,0 +1,4 @@
+- This application asks you 10 shape questions with pictures.
+- If you answer incorrectly, you will go back to the beginning and your score will be 0.
+- The game ends when you answer 10 questions correctly and your score is 100.
+- Do not forget to look at the application, try it and contribute.
